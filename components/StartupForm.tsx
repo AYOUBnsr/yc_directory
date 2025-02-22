@@ -6,7 +6,7 @@ import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import React, { useActionState, useState } from "react";
 import MDEditor from '@uiw/react-md-editor';
-import { Button } from "./ui/Button";
+import { Button } from "./ui/button";
 import { Send } from "lucide-react";
 import { formSchema } from "@/lib/validation";
 import { z } from "zod";
