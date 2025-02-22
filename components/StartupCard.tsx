@@ -5,7 +5,7 @@ import { EyeIcon } from 'lucide-react'
 import Link from 'next/link'
 import Image from 'next/image'
 import { Author, Startup } from '@/sanity/types'
-import { Button } from '@/components/ui/Button'
+import { Button } from '@/components/ui/button'
 
 export type StartupCardType = Omit<Startup, "author"> & { author?: Author }
 const StartupCard = ({ post }: { post: StartupCardType }) => {
