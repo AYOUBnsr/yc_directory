@@ -29,13 +29,13 @@ pitches, and gain exposure through a clean minimalistic design for a smooth user
 
 - React 19
 - Next.js 15
-- Sanity
 - Sentry
 - TailwindCSS
-- ShadCN
 - TypeScript
-
- [![My Skills](https://skillicons.dev/icons?i=react,nextjs,sanity,sentry,tailwindcss,shadcn,typescript)](https://skillicons.dev)
+- Sanity
+- ShadCN
+- 
+ [![My Skills](https://skillicons.dev/icons?i=react,nextjs,sentry,tailwindcss,typescript,sanity,shadcn)](https://skillicons.dev)
 
 ## <a name="features">🔋 Features</a>
 
