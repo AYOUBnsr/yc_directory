@@ -34,7 +34,7 @@ pitches, and gain exposure through a clean minimalistic design for a smooth user
 - TypeScript
 - Sanity
 - ShadCN
-- 
+  
  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,sentry,tailwindcss,typescript,sanity,shadcn)](https://skillicons.dev)
 
 ## <a name="features">🔋 Features</a>
